@@ -1,4 +1,4 @@
-# **Atm-machine-simulation**
+# ATM MACHINE SIMULATION 
 
 # ATM Project
 
