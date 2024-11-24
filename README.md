@@ -1,5 +1,4 @@
-# Atm-machine-simulation
-# ATM-Project
+# **Atm-machine-simulation**
 
 # ATM Project
 
